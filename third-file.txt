@@ -1,0 +1,3 @@
+Third file with content
+
+Actually it's pointless content.
